@@ -2,12 +2,12 @@
 
 Projeto simples em Python criado para praticar laços de repetição, validação de dados e classificação de informações.
 
-## Sobre o Projeto
+## 📌 Sobre o Projeto
 
 Este script simula um sistema básico de classificação de mensagens, organizando-as por tipo e avaliando prioridade do dia com base nas mensagens de trabalho.
 
 
-## O que o programa faz
+## ⚙️ O que o programa faz
 
 - Define os tipos de mensagens permitidas
 - Recebe a quantidade de mensagens recebidas no dia
